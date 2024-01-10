@@ -1,0 +1,2 @@
+The goal of the Project was to research the possibility of replacing data collection via a survey conducted monthly, by an econometric model, that would forecast the data one quarter in advance, using quarterly input data, and then using imputation or disaggregation algorithms estimate an approximate measure of the monthly measures.
+The aim was to estimate the viability of replacing the survey with the model.
